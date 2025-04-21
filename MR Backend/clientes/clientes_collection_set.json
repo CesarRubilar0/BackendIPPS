@@ -1,0 +1,10 @@
+{
+    "name": "MR Consultoría API",
+    "requests": [
+        {
+            "name": "Obtener Servicios",
+            "method": "GET",
+            "url": "http://localhost/tu_proyecto/home.php?endpoint=servicios"
+        }
+    ]
+}
